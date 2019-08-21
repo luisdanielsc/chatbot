@@ -1,1 +1,1 @@
-This is a chatbot pluggin for Maven using Neo4j.
+This is a chatbot plugin for Maven using Neo4j.
